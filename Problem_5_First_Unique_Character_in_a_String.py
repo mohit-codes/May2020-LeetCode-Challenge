@@ -1,7 +1,6 @@
 # Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
 
-# Linear time approach using hashing
-
+# O(n) Linear time approach using hashing
 
 from collections import Counter
 class Solution:
