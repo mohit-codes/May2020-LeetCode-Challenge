@@ -2,6 +2,7 @@
 
 # Linear time approach using hashing
 
+
 from collections import Counter
 class Solution:
     def firstUniqChar(self, s: str) -> int:
