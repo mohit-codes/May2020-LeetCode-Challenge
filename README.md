@@ -9,7 +9,7 @@
   6. [Majority Element](https://leetcode.com/problems/majority-element/)
   7. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
 * Week 2
-  1. Check If It Is a Straight Line
-  2. Valid Perfect Square
-  3. Find the Town Judge
-  4. Flood Fill
+  1. [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+  2. Valid Perfect Square(https://leetcode.com/problems/validate-perfect-square/)
+  3. Find the Town Judge(https://leetcode.com/problems/find-the-town-judge/)
+  4. Flood Fill(https://leetcode.com/problems/flood-fill/)
