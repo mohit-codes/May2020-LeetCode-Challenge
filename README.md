@@ -13,3 +13,6 @@
   2. [Valid Perfect Square](https://leetcode.com/problems/validate-perfect-square/)
   3. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
   4. [Flood Fill](https://leetcode.com/problems/flood-fill/)
+  5. [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+  6. [Remove k digits](https://leetcode.com/problems/remove-k-digits/)
+  7. [Implement trie (prefix tree)]( https://leetcode.com/problems/implement-trie-prefix-tree/)
